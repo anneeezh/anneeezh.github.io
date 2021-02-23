@@ -1,4 +1,22 @@
-body{background-color: bisque;}
-h1{color: rgb(82, 137, 199); font-family: cursive; text-align: center;}
-h3,p{font-family: cursive; text-align: center;}
-.Links{text-align: center;}
+body{
+    background-color: 
+    rgb(196, 255, 250);}
+
+Header{
+    position:fixed;
+    width: 100%;
+    text-align: center;  
+    background-color: #c97272;
+    border-bottom: 1px solid #c97272;}
+
+h1{
+    color: rgb(82, 137, 199); 
+    font-family: cursive; 
+    text-align: center;}
+
+h3,p{
+    font-family: cursive; 
+    text-align: center;}
+
+.Links{
+    text-align: center;}
