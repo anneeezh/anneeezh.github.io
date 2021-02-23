@@ -7,7 +7,7 @@ Header{
     width: 100%;
     text-align: center;  
     background-color: #e4a3a3;
-    border-bottom: 80px solid #e4a3a3;}
+    border-top,border-bottom:80px solid #e4a3a3;}
 
 h1{
     color: rgb(82, 137, 199); 
