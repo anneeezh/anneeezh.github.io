@@ -3,11 +3,11 @@ body{
     rgb(196, 255, 250);}
 
 Header{
-    position:fixed;
-    width: 100%;
     color: black;
     background-color: #e4a3a3;
-    opacity: 0.5;}
+    opacity: 0.5;
+    position:fixed;
+    width: 100%;}
 
 h1{
     color: rgb(82, 137, 199); 
