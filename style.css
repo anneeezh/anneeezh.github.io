@@ -7,7 +7,9 @@ Header{
     background-color: #e4a3a3;
     opacity: 0.5;
     position:fixed;
-    width: 100%;}
+    width: 100%;
+    border-bottom: 1px solid #466995;
+    z-index:10;}
 
 h1{
     color: rgb(82, 137, 199); 
