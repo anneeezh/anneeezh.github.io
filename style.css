@@ -10,6 +10,21 @@ Header{
     width: 100%;
     z-index:10;}
 
+ul {
+    margin: 30px auto;
+    padding: 0 20px;
+    text-align: center;}
+      
+    li {
+        font-size: 16px;
+        font-weight: 300;
+        display: inline-block;
+        width: 100px;}
+      
+    li:hover {
+        color: #DBE9EE;}
+    
+
 h1{
     color: rgb(82, 137, 199); 
     font-family: cursive; 
