@@ -44,4 +44,9 @@ h3,p{
 .Links{
     text-align: center;
     display: inline-block;
-    width: 200px;}
+    width: 200px;
+    box-sizing: border-box;
+    padding: 40px;
+    width: 100%;
+    position: relative;
+    float: right;}
