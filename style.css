@@ -15,14 +15,15 @@ ul {
     padding: 0 20px;
     text-align: center;}
       
-    li {
-        font-size: 16px;
-        font-weight: 300;
-        display: inline-block;
-        width: 100px;}
-      
+li {
+    color:black;
+    font-size: 16px;
+    font-weight: 300;
+    display: inline-block;
+    width: 200px;}
+    
     li:hover {
-        color: #DBE9EE;}
+    color: #1cace0;}
     
 
 h1{
