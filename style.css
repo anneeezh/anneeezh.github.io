@@ -19,4 +19,5 @@ h3,p{
     text-align: center;}
 
 .Links{
-    text-align: center;}
+    text-align: center;
+    display: inline-block}
