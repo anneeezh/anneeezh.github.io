@@ -5,7 +5,7 @@ body{
 Header{
     color: black;
     background-color: #e4a3a3;
-    opacity: 0.5;
+    opacity: 1;
     position:fixed;
     width: 100%;
     z-index:10;}
