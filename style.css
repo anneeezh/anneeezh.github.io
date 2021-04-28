@@ -7,9 +7,10 @@ Header{
     color: rgb(226, 210, 117);
     background-color: rgb(26, 87, 57);
     opacity: 1;
-    position:relative;
+    position:static;
     width: 100%;
     z-index:10;
+
   }
 
 ul {
