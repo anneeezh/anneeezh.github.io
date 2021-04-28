@@ -38,7 +38,13 @@ h1{
     font-family: cursive; 
     text-align: center;}
 
-h3,p{
+h3{
+    font-family: cursive; 
+    text-align: center;
+    color: rgb(241, 188, 90);
+}
+
+p{
     font-family: cursive; 
     text-align: center;
     color: #000;
