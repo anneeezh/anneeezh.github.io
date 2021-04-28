@@ -5,7 +5,7 @@ Header{
     color: rgb(0, 0, 0);
     background-color: #ffffff;
     opacity: 1;
-    position:fixed;
+    position:relative;
     width: 100%;
     z-index:10;}
 
