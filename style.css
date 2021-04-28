@@ -18,6 +18,10 @@ ul {
     text-align: center;
     color:#000}
       
+ol{
+    font-size: 15px;
+}
+
 li {
     color:#000;
     font-size: 20px;
