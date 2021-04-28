@@ -20,7 +20,7 @@ ul {
       
 li {
     color:#000;
-    font-size: 24px;
+    font-size: 20px;
     font-weight: 300;
     display: inline-block;
     width: 200px;}
@@ -57,7 +57,10 @@ p{
 }
 
 .Links{
+    text-align: center;
     
+    width: 200px;
+    box-sizing: border-box;
     padding: 40px;
     width: 100%;
     position: relative;
