@@ -1,5 +1,7 @@
 body{
-    background-color: rgb(201, 219, 236);}
+    background-color: rgb(201, 219, 236);
+    margin: 20px;
+}
 
 Header{
     color: rgb(226, 210, 117);
@@ -67,4 +69,9 @@ p{
     margin-left: auto;
     margin-right: auto;
     width: 50%; 
+}
+
+.intro{
+    text-align: left;
+    width:auto;
 }
