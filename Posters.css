@@ -9,12 +9,13 @@ html{
     font-family: 'Indie Flower', cursive; 
     font-size: 30px; 
     text-align: center;
+    font-weight: bolder;
 }
 
 .TransitionText2{
     font-family: 'Indie Flower', cursive; 
     font-size: 22px; 
-    font-weight: 700;
+    font-weight: bold;
     text-align: center;
 }
 
