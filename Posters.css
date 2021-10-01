@@ -28,8 +28,8 @@ html{
 .Posters2{
     display: flex;
     justify-content: space-between;
-    padding-left: 200px;
-    padding-right: 200px;
+    padding-left: 180px;
+    padding-right: 180px;
 }
 
 .center{
