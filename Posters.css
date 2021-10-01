@@ -5,6 +5,16 @@ html{
     margin: auto;
 }
 
+Header{
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    opacity: 1;
+    position:static;
+    width: 100%;
+    z-index:10;
+    
+}
+
 .TransitionText{
     font-family: 'Indie Flower', cursive; 
     font-size: 30px; 
