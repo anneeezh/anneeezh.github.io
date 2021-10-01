@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
+body{
+    background-color: rgb(228, 223, 161);
+    margin: auto;
+}
+
+.TransitionText{
+    font-family: 'Indie Flower', cursive; 
+    font-size: 30px; 
+    text-align: center;
+}
+
+.center{
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto;
+}
+
+.left{
+    float:left; 
+    padding: 20px;
+}
+
+.right{
+    float:right; 
+    padding: 20px;
+}
