@@ -11,6 +11,13 @@ html{
     text-align: center;
 }
 
+.TransitionText2{
+    font-family: 'Indie Flower', cursive; 
+    font-size: 22px; 
+    font-weight: 300;
+    text-align: center;
+}
+
 .Posters{
     display: flex;
     justify-content: space-between;
