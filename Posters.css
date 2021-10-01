@@ -13,11 +13,15 @@ html{
 
 .Posters{
     display: flex;
-    flex-flow: row nowrap;
-    justify-content: center, space-between;
-    margin: 5px;
-    
+    justify-content: space-between;
+    padding: 20px;
   }
+
+.Posters2{
+    display: flex;
+    justify-content: space-between;
+    padding: 200px;
+}
 
 .center{
     display: block; 
