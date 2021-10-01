@@ -15,6 +15,15 @@ Header{
     
 }
 
+.Pip{
+    box-sizing: border-box;
+    padding: 40px;
+    width: 100%;
+    position: relative;
+    top: 50px;
+    margin-bottom: 30px;
+}
+
 .TransitionText{
     font-family: 'Indie Flower', cursive; 
     font-size: 30px; 
